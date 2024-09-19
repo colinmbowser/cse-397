@@ -8,15 +8,14 @@ Interests: Video games, sports, writing and programming
 
 Unique: I enjoy writing.
 
-Photo: 
+Photo: [Photo](https://github.com/colinmbowser/cse-397/blob/main/Profile%20Picture.png)
 
-
-Resume: https://github.com/colinmbowser/cse-397/blob/main/Resume.pdf
+Resume: [Resume](https://github.com/colinmbowser/cse-397/blob/main/Resume.pdf)
 
 * I have a large range of work experience
 
 * Listed the skills that I have which match what employers want at the bottom
 
-Cover Letter: https://github.com/colinmbowser/cse-397/blob/main/Cover%20Letter.pdf
+Cover Letter: [Cover Letter](https://github.com/colinmbowser/cse-397/blob/main/Cover%20Letter.pdf)
 
-LinkedIn: https://www.linkedin.com/in/colin-bowser-a859892b9/
+LinkedIn: [Linkin](https://www.linkedin.com/in/colin-bowser-a859892b9/)
